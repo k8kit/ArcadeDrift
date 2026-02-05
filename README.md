@@ -1,1 +1,2 @@
 # ArcadeDrift
+A 2D racing game using C# and Windows Forms, featuring smooth car controls, dynamic obstacle movement, score tracking, and increasing difficulty as the game progresses. The game includes interactive menus, pause and game-over screens, and high-score tracking to enhance player engagement. The project also applies object-oriented programming principles to ensure organized, maintainable, and scalable code.
